@@ -14,3 +14,6 @@ Add descriptions to the file contents below
   - **orbit-modified.html.zip**
   - Makes the slideshow use a background image instead of an img tag so it can fit any width
   - written by @kellishouts
+
+- Exercise_3 assets
+  - **Exercise_3.Jason.zip**
