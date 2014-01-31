@@ -18,3 +18,4 @@ Add descriptions to the file contents below
 - Exercise_3 assets
   - **Exercise_3.Jason.zip**
   - **Exercise_3.Derek.zip**
+  - **Exercise_3.Tyler.zip**
