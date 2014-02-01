@@ -10,6 +10,14 @@ Add descriptions to the file contents below
 
 ## Contents
 
+- HTML CSS Foundation
+  - **Foundation_Web_Sample.zip**
+  - Foundation media query overrides
+  - Custom nav bar
+  - Background image styles
+  - Social Media Icons
+  - written by @kellishouts
+
 - Modified Orbit Slideshow (for Foundation framework)
   - **orbit-modified.html.zip**
   - Makes the slideshow use a background image instead of an img tag so it can fit any width
